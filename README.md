@@ -9,11 +9,7 @@ Este repositorio contiene el código para el proyecto que incluye un backend y u
 
 ## Backend: Configuración y ejecución
 
-El backend debe ser ejecutado en un entorno virtual dentro de PyCharm. Sigue los siguientes pasos:
+El backend debe se puede trabajar en un entorno virtual dentro de PyCharm. 
+Debe ejecutarse el archivo app.py (http://127.0.0.1:5000). 
 
-1. **Clonar el repositorio**
-
-   Si aún no has clonado el repositorio, usa el siguiente comando:
-   ```bash
-   git clone <URL_del_repositorio>
-   cd <nombre_del_directorio>
+```El archivo intents.json contiene las etiquetas junto con los patrones de entrada y sus respuestas
